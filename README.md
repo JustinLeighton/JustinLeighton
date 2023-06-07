@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey, I'm Justin! 👋
+- 🧑‍💻 Data Scientist at [Charles River Laboratories](https://www.criver.com/)
+- us From Minneapolis, MN
+- 📓 I like to write about technology on Medium
+- 💕 In love with Python, R, Machine Learning and DevOps
+- 🌱 Learning more about Cloud Architecture, Software Engineering
+- 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/justin-leighton/)
 
 <!--
 **JustinLeighton/JustinLeighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
