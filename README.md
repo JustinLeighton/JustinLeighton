@@ -1,6 +1,6 @@
 ## Hey, I'm Justin! 👋
 - 🧑‍💻 Data Scientist at [Charles River Laboratories](https://www.criver.com/)
-- us From Minneapolis, MN
+- 🇺🇸 From Minneapolis, MN
 - 📓 I like to write about technology on Medium
 - 💕 In love with Python, R, Machine Learning and DevOps
 - 🌱 Learning more about Cloud Architecture, Software Engineering
