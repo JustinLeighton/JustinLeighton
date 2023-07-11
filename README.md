@@ -1,7 +1,7 @@
 ## Hey, I'm Justin! 👋
 - 🧑‍💻 Data Scientist at [Charles River Laboratories](https://www.criver.com/)
 - 🇺🇸 From Minneapolis, MN
-- 📓 I like to write about technology on Medium
+- 📓 I like to train models to solve interesting problems 🧠🤖💥
 - 💕 In love with Python, R, Machine Learning and DevOps
 - 🌱 Learning more about Cloud Architecture, Software Engineering
 - 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/justin-leighton/)
