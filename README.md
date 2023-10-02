@@ -1,9 +1,9 @@
 ## Hey, I'm Justin! 👋
-- 🧑‍💻 Data Scientist at [Charles River Laboratories](https://www.criver.com/)
+- 🧑‍💻 Software Engineer on the ML Platform team at [C.H. Robinson](https://www.chrobinson.com/en-us/)
 - 🇺🇸 From Minneapolis, MN
 - 📓 I like to train models to solve interesting problems 🧠🤖💥
-- 💕 In love with Python, R, Machine Learning and DevOps
-- 🌱 Learning more about Cloud Architecture, Software Engineering
+- 💕 In love with Python, Machine Learning, and Software Engineering
+- 🌱 Learning more about Cloud Architecture, Devops
 - 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/justin-leighton/)
 
 <!--
